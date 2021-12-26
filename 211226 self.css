@@ -7,7 +7,7 @@ h1,h2,nav,div{
 	white-space: nowrap;
 }
 body{
-	background-image: url("file:///C:/Users/shj72/Desktop/h234.png");
+	background-image: url("./h234.png");
 	background-size: contain;
 	background-repeat: repeat-y;
 }
@@ -15,7 +15,7 @@ title{
 	background-color: #DFE4F2;
 }
 #h1{
-	background-image: url("file:///C:/Users/shj72/Desktop/h1.png");
+	background-image: url("./h1.png");
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
