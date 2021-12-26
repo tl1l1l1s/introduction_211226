@@ -39,19 +39,19 @@ a{
 	text-decoration: none;
 	font-size: 20px;
 }
-.AboutMe, .Learning, .Favorite {
+#AboutMe, #Learning, #Favorite {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
 }
-.univ, .JP, .JS, .HTML, .Game, .Sweets, .Book {
+#univ, #JP, #JS, #HTML, #Game, #Sweets, #Book {
     width: 150px;
     height: 150px; 
     border-radius: 70%;
     object-fit: cover;
 }
-.CSS{
+#CSS{
 	width: 200px;
     height: 200px;
     border-radius: 70%;
